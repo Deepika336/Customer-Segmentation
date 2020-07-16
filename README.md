@@ -29,9 +29,9 @@ The elbow method is used to determine the optimal number of clusters in k-means 
 3. **Assign all the points to the closest cluster centroid**
 4. **Recompute the centroids of newly formed clusters**
 5. **Repeat steps 3 and 4 until:**
--Centroids of newly formed clusters do not change
--Points remain in the same cluster
--Maximum number of iterations are reached.
+* Centroids of newly formed clusters do not change
+* Points remain in the same cluster
+* Maximum number of iterations are reached.
 
 
 
