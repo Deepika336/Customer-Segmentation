@@ -20,9 +20,7 @@ K-means clustering is one of the simplest and popular unsupervised machine learn
 
 ### Steps for applying k-means:
 1. **Choose optimal number of clusters**
-
-
-*Elbow Method:*
+*Elbow Method:                                                                                                                                                                  *
 The elbow method is used to determine the optimal number of clusters in k-means clustering. The elbow method plots the value of the cost function produced by different values of k.
  As you know, if k increases, average distortion will decrease, each cluster will have fewer constituent instances, and the instances will be closer to their respective centroids.
  However, the improvements in average distortion will decline as k increases.
