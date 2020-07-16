@@ -19,7 +19,7 @@ A histogram divides the values within a numerical variable into “bins”, and 
 K-means clustering is one of the simplest and popular unsupervised machine learning algorithms.A cluster refers to a collection of data points aggregated together because of certain similarities. You'll define a target number k, which refers to the number of centroids you need in the dataset.
 
 ### Steps for applying k-means:
-1. **Choose optimal number of clusters**
+1. **Choose optimal number of clusters using**
 **Elbow Method:**
 The elbow method is used to determine the optimal number of clusters in k-means clustering. The elbow method plots the value of the cost function produced by different values of k.
  As you know, if k increases, average distortion will decrease, each cluster will have fewer constituent instances, and the instances will be closer to their respective centroids.
