@@ -25,7 +25,7 @@ The elbow method is used to determine the optimal number of clusters in k-means 
  As you know, if k increases, average distortion will decrease, each cluster will have fewer constituent instances, and the instances will be closer to their respective centroids.
  However, the improvements in average distortion will decline as k increases.
  The value of k at which improvement in distortion declines the most is called the elbow, at which we should stop dividing the data into further clusters.
-2. **Select k random points from the data as centroids**
+1. **Select k random points from the data as centroids**
 3. **Assign all the points to the closest cluster centroid**
 4. **Recompute the centroids of newly formed clusters**
 5. **Repeat steps 3 and 4 until:**
