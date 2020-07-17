@@ -1,7 +1,13 @@
 # DLithe Internship Certification Program
 Reference:Assignment during Online Internship with Dlithe(www.dlithe.com)
+
 Project done under the guidance of: DLite
-Done by:M.Deepika     USN:4nm18cs084
+
+Done by:M.Deepika
+
+USN:4nm18cs084
+
+
 Batch 2
 
 ## Customer Segmentation using k-means clustering
